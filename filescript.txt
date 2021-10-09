@@ -1,1 +1,8 @@
-
+percobaan membuat pu;; dan push di git dan github:
+1. bukalah terminal atau command prompt
+2. membuat directory: 0013-AHMD
+3. melakukan git init
+4. mencoba membuat file .txt
+5. melakukan git add .
+6. melakukan git commit -m "belajar commit"
+7. git remote add origin master ...
